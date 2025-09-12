@@ -1,6 +1,6 @@
 ## Hi folks 👋
 ### i am usually working on open source projects, if u appreciate my work, donate!😊
-### eth: 0x254806cfb6709333Efa89beb5A585dDA62bCDbC3
+### eth: 0xAF18548F7ED92931b782c61761c6025d4042319A
 ### btc: bc1q7ejf5dwalkz5qw53manq7f9qmt0ec4ad4ya5e6
 ### sol: 241ce3PDDZRi9qci1XUDHRQs9Kf1nXou5UbRrz5yce4q
 
